@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="18" viewBox="0 0 21 18">
+    <g data-name="Group 8484">
+        <path data-name="Exclusion 4" d="M22624 6535h-7a1 1 0 0 1-1-1v-16a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1zm-4.555-11a.275.275 0 0 0-.283.284v2.487a.284.284 0 0 0 .283.285.288.288 0 0 0 .148-.041l2.1-1.238a.293.293 0 0 0 .141-.252.283.283 0 0 0-.141-.242l-2.1-1.244a.291.291 0 0 0-.146-.039z" transform="translate(-22604 -6516.997)" style="fill:#fff"/>
+        <path data-name="Exclusion 5" d="M22625 6524h-8a1 1 0 0 1-1-1v-5a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1zm-5.043-5.029a.287.287 0 0 0-.193.074.275.275 0 0 0-.088.212v2.484a.282.282 0 0 0 .428.247l2.082-1.242a.289.289 0 0 0 0-.493l-2.082-1.242a.284.284 0 0 0-.146-.04z" transform="translate(-22616 -6516.997)" style="fill:#fff"/>
+        <g data-name="Group 8078">
+            <path data-name="Path 42949" d="M6.19 0S5.21 6.086 0 6.7" transform="rotate(85.99 .134 9.56)" style="fill:none;stroke:#fff;stroke-linecap:round"/>
+            <path data-name="Path 42950" d="M3.384 1.692S1.971 0 1.692 0 0 1.692 0 1.692" transform="rotate(85.99 -1.665 12.338)" style="fill:none;stroke:#fff;stroke-linecap:round"/>
+        </g>
+    </g>
+</svg>

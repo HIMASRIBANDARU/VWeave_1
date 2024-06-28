@@ -1,0 +1,11 @@
+<svg data-name="Component 94 – 7" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g data-name="Rectangle 15918" style="stroke:#2863eb;fill:none">
+        <rect width="32" height="32" rx="2" style="stroke:none"/>
+        <rect x=".5" y=".5" width="31" height="31" rx="1.5" style="fill:none"/>
+    </g>
+    <g data-name="Group 48212">
+        <path data-name="Line 300" transform="translate(7.5 15.5)" style="stroke-linecap:round;stroke:#2863eb;fill:none" d="M0 0h16"/>
+        <path data-name="Path 53235" d="M-17930.109 19949.066v4h4" transform="rotate(45 15105.248 31636.364)" style="stroke-linecap:round;stroke:#2863eb;fill:none"/>
+        <path data-name="Path 53236" d="M0 4V0h4" transform="rotate(135 9.15 12.87)" style="stroke-linecap:round;stroke:#2863eb;fill:none"/>
+    </g>
+</svg>

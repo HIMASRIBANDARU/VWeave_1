@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g data-name="add product btn">
+        <g data-name="Rectangle 82" style="stroke:#9b9b9b;fill:none">
+            <rect width="40" height="40" rx="4" style="stroke:none"/>
+            <rect x=".5" y=".5" width="39" height="39" rx="3.5" style="fill:none"/>
+        </g>
+        <path data-name="Path 53336" d="M39.189 31.166a.828.828 0 0 0-.827.828 6.324 6.324 0 1 1-1.533-4.138H34.5a.827.827 0 1 0 0 1.655h3.862a.827.827 0 0 0 .827-.827v-3.862a.827.827 0 1 0-1.655 0V26.2a8 8 0 1 0-10.1 12.346A7.94 7.94 0 0 0 32 39.994a8.1 8.1 0 0 0 1.406-.124 8 8 0 0 0 6.61-7.878.828.828 0 0 0-.827-.826z" transform="translate(-12.017 -11.994)" style="fill:#7e7e7e"/>
+    </g>
+</svg>

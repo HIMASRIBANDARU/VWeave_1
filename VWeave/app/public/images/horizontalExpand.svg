@@ -1,0 +1,13 @@
+<svg data-name="Component 95 – 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g data-name="Group 48213">
+        <g data-name="Rectangle 15918" transform="rotate(-90 16 16)" style="stroke:#2863eb;fill:none">
+            <rect width="32" height="32" rx="2" style="stroke:none"/>
+            <rect x=".5" y=".5" width="31" height="31" rx="1.5" style="fill:none"/>
+        </g>
+        <g data-name="Group 48212">
+            <path data-name="Line 300" transform="rotate(-90 20 4.5)" style="stroke-linecap:round;stroke:#2863eb;fill:none" d="M0 0h16"/>
+            <path data-name="Path 53235" d="M-17930.109 19949.066v4h4" transform="rotate(-45 -33012.683 -11673.264)" style="stroke-linecap:round;stroke:#2863eb;fill:none"/>
+            <path data-name="Path 53236" d="M0 4V0h4" transform="rotate(45 -1.039 22.35)" style="stroke-linecap:round;stroke:#2863eb;fill:none"/>
+        </g>
+    </g>
+</svg>

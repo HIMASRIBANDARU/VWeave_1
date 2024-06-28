@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g data-name="25. Open">
+        <path data-name="Path 43263" d="M16.4 9.4v6.2a.8.8 0 0 1-.8.8H4.4a.8.8 0 0 1-.8-.8V4.4a.8.8 0 0 1 .8-.8h6.2a.8.8 0 1 0 0-1.6H4.4A2.4 2.4 0 0 0 2 4.4v11.2A2.4 2.4 0 0 0 4.4 18h11.2a2.4 2.4 0 0 0 2.4-2.4V9.4a.8.8 0 0 0-1.6 0z" style="fill:#225eef" transform="translate(-2 -2)"/>
+        <path data-name="Path 43264" d="M21 2h-3a1 1 0 0 0 0 2h.59l-7.3 7.29a1 1 0 0 0 1.42 1.42L20 5.41V6a1 1 0 0 0 2 0V3a1 1 0 0 0-1-1z" transform="translate(-6 -2)" style="fill:#225eef"/>
+    </g>
+</svg>

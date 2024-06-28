@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+    <g data-name="Group 4661">
+        <g style="fill:rgba(0,88,255,.1);stroke:rgba(0,88,255,.1);stroke-miterlimit:10">
+            <circle cx="22.5" cy="22.5" r="22.5" style="stroke:none"/>
+            <circle cx="22.5" cy="22.5" r="22" style="fill:none"/>
+        </g>
+        <g data-name="video-player (1)" transform="translate(13.862 13.257)">
+            <path data-name="Path 4515" d="M2.574 0h12.5a2.574 2.574 0 0 1 2.574 2.574v12.5a2.574 2.574 0 0 1-2.574 2.574h-12.5A2.574 2.574 0 0 1 0 15.078V2.574A2.574 2.574 0 0 1 2.574 0z" style="fill:#6d88fa"/>
+            <g data-name="Group 4657">
+                <path data-name="Path 4516" d="M200.826 406.069h-8.459a.368.368 0 1 1 0-.736h8.459a.368.368 0 1 1 0 .736z" transform="translate(-185.38 -391.358)" style="fill:#e5eefe"/>
+                <path data-name="Path 4517" d="m197.716 110.038-5.149-3.31a.368.368 0 0 0-.567.309v6.62a.368.368 0 0 0 .567.309l5.149-3.31a.368.368 0 0 0 0-.619z" transform="translate(-185.38 -102.991)" style="fill:#e5eefe"/>
+                <path data-name="Path 4518" d="M45.24 406.069h-2.206a.368.368 0 0 1 0-.736h2.206a.368.368 0 0 1 0 .736z" transform="translate(-41.195 -391.358)" style="fill:#e5eefe"/>
+            </g>
+            <circle data-name="Ellipse 41" cx="2" cy="2" r="2" transform="translate(3.631 12.258)" style="fill:#cfd8dc"/>
+            <path data-name="Path 4519" d="M150.128 406.069a.368.368 0 0 1-.007-.736h.007a.368.368 0 0 1 0 .736z" transform="translate(-144.597 -391.358)" style="fill:#607d8b"/>
+        </g>
+    </g>
+</svg>

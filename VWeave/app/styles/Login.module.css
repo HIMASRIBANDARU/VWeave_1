@@ -1,0 +1,275 @@
+.wrapper_signup {
+    background-color: #f1f1ff;
+    width: 100%;
+    float: left;
+    height: 100vh;
+    display: table;
+}
+
+.main_signup {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+}
+.adminPortal{
+    position: relative;
+    right: 8em;
+    top: 2px;
+    color: #211d1d;
+    font-family: Inter-Medium;
+    font-size: 29px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+}
+/* .logo_title {
+    font-size: 34px;
+    color: #2863eb;
+    font-weight: bold;
+    margin-bottom: 1rem;
+} */
+
+.signup_title {
+    margin-bottom: 1rem;
+    color: #211d1d;
+    font-family: Inter-Medium;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+}
+
+.signup_area {
+    width: 516px;
+    padding: 1rem 2.2rem 2.2rem 2.2rem;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 10px 0px #ddd;
+    border-radius: 6px;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:red;
+}
+.signup_input {
+    font-size: 18px;
+    border-radius: 2px !important;
+    border-color: rgba(99, 115, 129, 0.3) !important;
+    padding: 0.8em 4em 0.8em 0.8em;
+    outline: none;
+    color: #000;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    font-family: Inter-Regular;
+    position: relative;
+}
+.pswdToggle{
+    position: relative;
+    cursor: pointer;
+
+}
+.pswdToggle img{
+    position: absolute;
+    right: 15px;
+    bottom: 20px;
+
+}
+.forgotRemember{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center
+}
+.forgotRemember h4{
+    font-family: Inter-Medium;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: center;
+    color: #637381;
+}
+.forgotLinks{
+    margin: 5px;
+    position: relative;
+    top: 3px;
+    color: #2863eb;
+    text-decoration: underline;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    font-family: Inter-Medium;
+}
+.invitation_info {
+    float: left;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #747474;
+    font-family: Inter-Italic;
+    margin-top: 12px;
+}
+
+.signup_input:focus {
+    border-color: #007bff;
+}
+
+.signup_input::placeholder {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #797979;
+}
+
+.signup_input::-ms-input-placeholder {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #797979;
+}
+
+.signup_btn {
+    height: 46px;
+    width: 280px;
+    background-color: #2863eb;
+    margin-top: 1rem;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+.btn {
+    height: 46px;
+    margin-top: 60px;
+    width: 280px;
+}
+
+.already_account {
+    font-family: Inter-Medium;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: center;
+    color: #637381;
+}
+
+.account {
+    font-size: 1rem;
+    color: #637381;
+}
+
+.signin_link {
+    color: #2863eb;
+    text-decoration: underline;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    font-family: Inter-Medium;
+}
+
+.label {
+    float: left;
+    color: #212b36;
+    font-family: Inter-Regular;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+.req::after{
+    content: '*';
+    color:#ff0015;
+}
+
+.forgotpw {
+    text-align: center;
+    font-family: Inter-Medium;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    color: #727272;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.hidden {
+    display: block;
+}
+/* remember me */
+.rememberMe{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    float: left;
+    margin-top:1.5rem;
+}
+.logInRem{
+    position: relative;
+    /* bottom: 2px; */
+    left:12px;
+    font-family: Inter-Regular;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+}
+.inp{
+    margin-bottom: 1rem;
+}
+@media (min-width: 320px) and (max-width: 767px) {
+    .signup_btn {
+        background-color: #2863eb;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 1200px) and (max-width: 1280px) {}

@@ -1,0 +1,54 @@
+
+
+.Ads {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.AdsHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.AdsHeader h1 {
+  margin: 0;
+}
+
+.createAdsButton {
+  padding: 10px 20px;
+  background-color: #0095ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.description {
+  margin: 20px 0;
+}
+
+.adsTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.adsTable,
+.adsTable th,
+.adsTable td {
+  border: 1px solid #ddd;
+}
+
+.adsTable th,
+.adsTable td {
+  padding: 15px;
+  text-align: left;
+}
+
+.adsTable th {
+  background-color: #f2f2f2;
+}
+
+
+  
